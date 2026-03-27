@@ -1,0 +1,46 @@
+# --- General ---
+node_modules/
+.pnpm-store/
+.DS_Store
+Thumbs.db
+*.log
+*.pem
+*.tsbuildinfo
+
+# --- Entorno (Súper importante para el TFG) ---
+.env
+.env.local
+.env.*
+BackEnd/.env
+FrontEnd/.env
+
+# --- FrontEnd (Expo / React Native) ---
+FrontEnd/.expo/
+FrontEnd/dist/
+FrontEnd/web-build/
+FrontEnd/expo-env.d.ts
+FrontEnd/node_modules/
+
+# Carpetas nativas generadas
+FrontEnd/ios/
+FrontEnd/android/
+
+# Archivos de depuración y Metro
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# --- Native Keys & Provisioning ---
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+.kotlin/
+
+# --- BackEnd ---
+BackEnd/node_modules/
+BackEnd/dist/
+BackEnd/build/
