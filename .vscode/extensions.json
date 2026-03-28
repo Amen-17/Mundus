@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "dsznajder.es7-react-js-snippets",      // Snippets JS/TS/React (Todo en uno)
+    "esbenp.prettier-vscode",               // Formateo de código
+    "bradlc.vscode-tailwindcss",            // Para NativeWind (Tailwind)
+    "expo.vscode-expo-tools",               // Soporte oficial de Expo
+    "usernamehw.errorlens",                 // Errores en tiempo real
+    "eamodio.gitlens",                      // Control de versiones Pro
+    "postman.postman-for-vscode",           // Probar el BackEnd (API)
+    "christian-kohler.path-intellisense",   // Autocompletado de rutas de archivos
+    "msjsdiag.vscode-react-native"          // Herramientas de React Native
+  ]
+}
